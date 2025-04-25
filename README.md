@@ -57,3 +57,15 @@ python train.py --model densenet
 
 # Run evaluation
 python evaluate.py --model densenet
+
+├── data/                # Dataset directory
+├── models/              # CNN model definitions
+├── notebooks/           # Jupyter notebooks for EDA & experiments
+├── outputs/             # Trained weights, logs, visualizations
+├── train.py             # Training script
+├── evaluate.py          # Evaluation script
+└── README.md
+
+🤝 Contributors
+Harshit Ranjan💻
+Sharit Vaishnav
