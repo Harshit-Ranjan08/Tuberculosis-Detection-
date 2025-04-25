@@ -42,30 +42,6 @@ Our approach combines radiological features from CXR images with powerful CNN mo
 
 ---
 
-## 🧪 How to Run
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/tb-cnn-detection.git
-cd tb-cnn-detection
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run training
-python train.py --model densenet
-
-# Run evaluation
-python evaluate.py --model densenet
-
-├── data/                # Dataset directory
-├── models/              # CNN model definitions
-├── notebooks/           # Jupyter notebooks for EDA & experiments
-├── outputs/             # Trained weights, logs, visualizations
-├── train.py             # Training script
-├── evaluate.py          # Evaluation script
-└── README.md
----
-🤝 Contributors
-Harshit Ranjan💻
-Sharit Vaishnav
+## 🤝 Contributors  
+- Harshit 💻
+- Sharit Vaishnav
