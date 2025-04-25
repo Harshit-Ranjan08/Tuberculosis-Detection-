@@ -43,5 +43,5 @@ Our approach combines radiological features from CXR images with powerful CNN mo
 ---
 
 ## 🤝 Contributors  
-- Harshit 💻
+- Harshit Ranjan💻
 - Sharit Vaishnav
