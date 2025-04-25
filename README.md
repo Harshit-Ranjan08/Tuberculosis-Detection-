@@ -65,7 +65,7 @@ python evaluate.py --model densenet
 ├── train.py             # Training script
 ├── evaluate.py          # Evaluation script
 └── README.md
-
+---
 🤝 Contributors
 Harshit Ranjan💻
 Sharit Vaishnav
